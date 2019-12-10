@@ -1,0 +1,6 @@
+C:\Users\KSUstinov\source\repos\AxisConverter\AxisConverter\bin\Debug\AxisConverter.exe.config
+C:\Users\KSUstinov\source\repos\AxisConverter\AxisConverter\bin\Debug\AxisConverter.exe
+C:\Users\KSUstinov\source\repos\AxisConverter\AxisConverter\bin\Debug\AxisConverter.pdb
+C:\Users\KSUstinov\source\repos\AxisConverter\AxisConverter\obj\Debug\AxisConverter.csproj.CoreCompileInputs.cache
+C:\Users\KSUstinov\source\repos\AxisConverter\AxisConverter\obj\Debug\AxisConverter.exe
+C:\Users\KSUstinov\source\repos\AxisConverter\AxisConverter\obj\Debug\AxisConverter.pdb
